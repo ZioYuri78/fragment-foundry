@@ -1,5 +1,2 @@
-/bundle.js
-/chapters/*.html
-!/chapters/_template.html
 node_modules
 npm-debug.log
